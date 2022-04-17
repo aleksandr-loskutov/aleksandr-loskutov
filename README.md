@@ -7,7 +7,7 @@
 🔎 I'm also looking for a good job.
 
 ## 🛠 Skills & Tools
-![WS](https://aleksandrl.ru/img/webstorm.png) ![JS](https://aleksandrl.ru/img/js.png) ![TS](https://aleksandrl.ru/img/ts.png)![React](https://aleksandrl.ru/img/react.png)![Redux](https://aleksandrl.ru/img/redux.png)![Docker](https://aleksandrl.ru/img/docker.png)![Node.js](https://aleksandrl.ru/img/nodejs.png)
+![JS](https://aleksandrl.ru/img/min/js.png) ![TS](https://aleksandrl.ru/img/min/ts.png)![Node.js](https://aleksandrl.ru/img/min/node2.png)![React](https://aleksandrl.ru/img/min/react.png)![Redux](https://aleksandrl.ru/img/min/redux.png)![Git](https://aleksandrl.ru/img/min/git.png)![Docker](https://aleksandrl.ru/img/min/docker.png)
 
 ## 👁 Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr-loskutov&show_icons=true&hide=stars&count_private=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
