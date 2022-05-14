@@ -1,5 +1,6 @@
 # Hi, my name is Aleksandr! 👋
-### 🚀 I'm a full stack developer.
+ 🚀 I'm a full stack developer.
+
 👩‍💻 I'm currently working on Nest.js based pet project.
 
 🧠 I'm currently learning Nest.js, Next.js, GraphQL.
