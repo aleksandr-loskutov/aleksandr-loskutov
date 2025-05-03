@@ -1,5 +1,5 @@
 # Hi, my name is Aleksandr! 👋
-![JS](https://aleksandrl.ru/img/min/js.png) ![TS](https://aleksandrl.ru/img/min/ts.png)![Node.js](https://aleksandrl.ru/img/min/node2.png)![React](https://aleksandrl.ru/img/min/react.png)![Redux](https://aleksandrl.ru/img/min/redux.png)![Git](https://aleksandrl.ru/img/min/git.png)![Docker](https://aleksandrl.ru/img/min/docker.png)
+![JS](https://loskutov.dev/img/min/js.png) ![TS](https://loskutov.dev/img/min/ts.png)![Node.js](https://loskutov.dev/img/min/node2.png)![React](https://loskutov.dev/img/min/react.png)![Redux](https://loskutov.dev/img/min/redux.png)![Git](https://loskutov.dev/img/min/git.png)![Docker](https://loskutov.dev/img/min/docker.png)
 
 ## Projects
 1.  [PlayWord](https://github.com/aleksandr-loskutov/play-word) - приложение (fullstack PWA) для изучения и повторения английских слов на основе техники интервального повторения.
@@ -9,4 +9,4 @@
 5.  [Fast-company](https://github.com/aleksandr-loskutov/jfd-fast-company) - мини соц.сеть  на React, Redux, Firebase.
 
 ## 🔗 Portfolio
-Делаю сайты с 2013 года. Подробнее обо мне и моих проектах можно посмотреть на моем сайте: [aleksandrl.ru](https://aleksandrl.ru/)
+Делаю сайты с 2013 года. Подробнее обо мне и моих проектах можно посмотреть на моем сайте: [loskutov.dev](https://loskutov.dev/)
