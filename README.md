@@ -1,7 +1,6 @@
 # Hi, my name is Aleksandr! 👋
-![JS](https://loskutov.dev/img/min/js.png) ![TS](https://loskutov.dev/img/min/ts.png)![Node.js](https://loskutov.dev/img/min/node2.png)![React](https://loskutov.dev/img/min/react.png)![Redux](https://loskutov.dev/img/min/redux.png)![Git](https://loskutov.dev/img/min/git.png)![Docker](https://loskutov.dev/img/min/docker.png)
 
-## Projects
+## Projects (baked in non-AI era, with bare hands)
 1.  [PlayWord](https://github.com/aleksandr-loskutov/play-word) - приложение (fullstack PWA) для изучения и повторения английских слов на основе техники интервального повторения.
 2.  [Space runner](https://github.com/Stack-overflow-runners/game) - командная разработка от идеи до результата по методологии scrum и git flow с cross-review. Стек: TypeScript, React, Redux, Express, PostgreSQL, Docker.
 3.  [Web messenger](https://github.com/aleksandr-loskutov/middle.messenger.praktikum.yandex) - веб-чат (телеграм клон) для обмена сообщениями на TypeScript, ООП, Websockets и без использования React.
